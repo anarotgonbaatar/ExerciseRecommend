@@ -1,0 +1,68 @@
+Exercise Name,Muscle Group,Equipment Type,Type
+Flat Barbell or Dumbbell Bench Press,Chest,Free weight,Compound
+Incline Barbell or Dumbbell Bench Press,Chest,Free weight,Compound
+Decline Barbell or Dumbbell Bench Press,Chest,Free weight,Compound
+Flat Chest Press Machine,Chest,Machine,Compound
+Incline Chest Press Machine,Chest,Machine,Compound
+Decline Chest Press Machine,Chest,Machine,Compound
+Dips (on parallel bars with slight forward lean),Chest,Body weight,Compound
+Push-Ups,Chest,Body weight,Compound
+Flat Dumbbell Flyes,Chest,Free weight,Isolation
+Incline Dumbbell Flyes,Chest,Free weight,Isolation
+Decline Dumbbell Flyes,Chest,Free weight,Isolation
+Pec Deck Machine,Chest,Machine,Isolation
+Cable Crossovers/Cable Flyes,Chest,Machine,Isolation
+Pull-Ups,Back,Body weight,Compound
+Chin-Ups,Back,Body weight,Compound
+Lat Pull-Downs,Back,Machine,Compound
+Bent Over Barbell or Dumbbell Rows,Back,Free weight,Compound
+T-Bar Rows,Back,Machine,Compound
+Seated Cable Rows,Back,Machine,Compound
+Chest Supported Barbell or Dumbbell Rows,Back,Free weight,Compound
+Chest Supported Machine Rows,Back,Machine,Compound
+Inverted Rows,Back,Body weight,Compound
+Barbell Shrugs,Back,Free weight,Isolation
+Dumbell Shrugs,Back,Free weight,Isolation
+Machine Shrugs,Back,Machine,Isolation
+Seated Overhead Barbell or Dumbbell Press,Shoulder,Free weight,Compound
+Standing Overhead Barbell or Dumbbell Press,Shoulder,Free weight,Compound
+Overhead Machine Press,Shoulder,Machine,Compound
+Arnold Press,Shoulder,Free weight,Compound
+"Barbell, Dumbbell or Machine Upright Rows",Shoulder,All,Compound
+"Dumbbell, Cable or Machine Lateral Raises",Shoulder,All,Isolation
+"Dumbbell, Cable or Machine Front Raises",Shoulder,All,Isolation
+"Barbell, Dumbbell, or Machine Rear Delt Rows, Raises or Flyes",Shoulder,All,Isolation
+Barbell or Dumbbell Squats,Quads,Free weight,Compound
+Barbell or Dumbbell Front Squats,Quads,Free weight,Compound
+Barbell or Dumbbell Split Squats,Quads,Free weight,Compound
+Barbell or Dumbbell Lunges,Quads,Free weight,Compound
+Barbell or Dumbbell Step-Ups,Quads,Free weight,Compound
+Leg Press,Quads,Machine,Compound
+Single Leg Press,Quads,Machine,Compound
+Machine Squat/Hack Squat,Quads,Machine,Compound
+Leg Extensions,Quads,Machine,Isolation
+Barbell or Dumbbell Romanian Deadlifts,Hamstrings,Free weight,Compound
+Barbell or Dumbbell Straight Leg Deadlifts,Hamstrings,Free weight,Compound
+Barbell or Dumbbell Sumo Deadlifts,Hamstrings,Free weight,Compound
+Glute-Ham Raises,Hamstrings,Machine,Compound
+Hyperextensions,Hamstrings,Body weight,Compound
+Cable Pull-Throughs,Hamstrings,Machine,Compound
+Good-Mornings,Hamstrings,Free weight,Compound
+Leg Curls,Hamstrings,Machine,Isolation
+Standing Barbell or Dumbbell Curls,Biceps,Free weight,Isolation
+Barbell or Dumbbell Preacher Curls,Biceps,Free weight,Isolation
+Seated Dumbbell Curls,Biceps,Free weight,Isolation
+Incline Dumbbell Curls,Biceps,Free weight,Isolation
+Hammer Curls,Biceps,Free weight,Isolation
+Concentration Curls,Biceps,Free weight,Isolation
+Cable Curls,Biceps,Machine,Isolation
+Biceps Curl Machine,Biceps,Machine,Isolation
+"Dips (on parallel bars, elbows close to body, without forward lean)",Triceps,Body weight,Compound
+Flat Close Grip Bench Press,Triceps,Free weight,Compound
+Decline Close Grip Bench Press,Triceps,Free weight,Compound
+Close Grip Push-Ups,Triceps,Body weight,Compound
+Laying Barbell or Dumbbell Triceps Extensions,Triceps,Free weight,Isolation
+Skull Crushers,Triceps,Free weight,Isolation
+Overhead Barbell or Dumbbell Triceps Extensions,Triceps,Free weight,Isolation
+Cable Press-Downs,Triceps,Machine,Isolation
+Bench Dips,Triceps,Body weight,Compound

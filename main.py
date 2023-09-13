@@ -1,7 +1,7 @@
 import csv
 
 def greet():
-    print("Welcome to Workout Recommendation by Anar Otgonbaatar")
+    print("Welcome to Exercise Recommendator by Anar Otgonbaatar")
 
 def get_type(what = "", dict = {}):
     cur_type = ""
@@ -56,7 +56,6 @@ def recommend(dict, muscle, equipment, type):
 
 
 def initialize():
-    greet()
     exercise_dict = prep_csv()
 
     equipment_types = {1: "Free Weight", 2: "Machine", 3: "Body Weight"}
@@ -74,4 +73,10 @@ def initialize():
 
     recommend(exercise_dict, cur_muscle_group, cur_eqmpt_type, cur_exercise_type)
 
+    again = input("Go again? y/n: ")
+    if again == 'y':
+        initialize()
+    else: print('Thanks for using Exercise Recommendator!\n')
+
+greet()
 initialize()
